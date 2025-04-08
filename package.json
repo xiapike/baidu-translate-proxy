@@ -1,0 +1,9 @@
+{
+  "name": "baidu-translate-proxy",
+  "version": "1.0.0",
+  "description": "百度翻译API代理",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
